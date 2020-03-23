@@ -1,6 +1,14 @@
-# guide
+# XpenseFlow
 
-A new Flutter project.
+A Flutter + Dart project, enabling an expenses management mobile app. 
+This app does not use any storage system and hence it is cleared
+upon refresh. 
+
+1. The user can add an expense transaction.
+2. The user can delete an expense transaction.
+3. The expenses table overview can be viewed at the top. 
+It is constantly visible on portrait mode and is toggable 
+on landscape mode. 
 
 ## Getting Started
 
