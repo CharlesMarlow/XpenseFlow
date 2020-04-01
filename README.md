@@ -16,7 +16,7 @@ on landscape mode.
 2. Inside your IDE of choice, run the app in no-debug mode and it will be 
 attached to your emulator. 
 
-## Getting Started
+## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 
