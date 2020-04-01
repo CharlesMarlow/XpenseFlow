@@ -1,4 +1,4 @@
-# XpenseFlow
+## XpenseFlow
 
 A Flutter + Dart project, enabling an expenses management mobile app. 
 This app does not use any storage system and hence it is cleared
@@ -9,6 +9,12 @@ upon refresh.
 3. The expenses table overview can be viewed at the top. 
 It is constantly visible on portrait mode and is toggable 
 on landscape mode. 
+
+## Run locally
+- In order to run this app locally on your machine, please follow these steps: 
+1. Download Android Studio and follow instructions to activate an emulator. 
+2. Inside your IDE of choice, run the app in no-debug mode and it will be 
+attached to your emulator. 
 
 ## Getting Started
 
